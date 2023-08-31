@@ -1,0 +1,1 @@
+while [ 1 ]; do pm clear com.google.android.gms;echo $(date); echo "clear gms success!"; sleep 300; done;
